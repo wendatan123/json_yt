@@ -1,18 +1,18 @@
 {
-  "pc": "com.music_songs.mp3downloader.free_music_tube",
-  "client_id_music": "bc930b1d",
+  "pc": "com.songs_download.mp3_downloader.free_music_tube_app",
+  "client_id_music": "d93d7a74",
   "interval_inter": 3,
   "admob": [
     {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "native": "ca-app-pub-3940256099942544/2247696110"
+      "banner": "ca-app-pub-9751397065535567/8099605119",
+      "inter": "ca-app-pub-9751397065535567/5836651278",
+      "native": "ca-app-pub-9751397065535567/9263130089"
     }
   ],
   "applovin": [
     {
-      "inter": "",
-      "native": ""
+      "inter": "9aa94f7c5f98a292",
+      "native": "b985ce22a3c02d4c"
     }
   ]
 }
