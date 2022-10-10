@@ -1,0 +1,17 @@
+{
+  "pc": "com.hd_video_movie_app.video_music_song",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-",
+      "native": "ca-app-pub-",
+      "inter": "ca-app-pub-"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "",
+      "native": ""
+    }
+  ]
+}
