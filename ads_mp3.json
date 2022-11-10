@@ -5,13 +5,13 @@
   "admob": [
     {
       "banner": "ca-app-pub-9751397065535567/8099605119",
-      "inter": "ca-app-pub-9751397065535567/5836651278",
+      "inter": "",
       "native": "ca-app-pub-9751397065535567/9263130089"
     }
   ],
   "applovin": [
     {
-      "inter": "9aa94f7c5f98a292",
+      "inter": "",
       "native": "b985ce22a3c02d4c"
     }
   ]
