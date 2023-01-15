@@ -1,17 +1,17 @@
 {
   "pc": "com.songs_download.mp3_downloader.free_music_tube_app",
   "client_id_music": "d93d7a74",
-  "interval_inter": 3,
+  "interval_inter": 5,
   "admob": [
     {
       "banner": "ca-app-pub-9751397065535567/8099605119",
-      "inter": "",
+      "inter": "ca-app-pub-9751397065535567/5836651278",
       "native": "ca-app-pub-9751397065535567/9263130089"
     }
   ],
   "applovin": [
     {
-      "inter": "",
+      "inter": "9aa94f7c5f98a292",
       "native": "b985ce22a3c02d4c"
     }
   ]
